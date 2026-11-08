@@ -1,0 +1,10 @@
+{
+  "model": "Soft-voting ensemble",
+  "cv_accuracy": 0.8301,
+  "test_accuracy": 0.8436,
+  "test_precision": 0.8154,
+  "test_recall": 0.7681,
+  "test_f1": 0.791,
+  "test_roc_auc": 0.8627,
+  "baseline_accuracy": 0.6145
+}

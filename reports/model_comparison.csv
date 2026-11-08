@@ -1,0 +1,7 @@
+model,cv_accuracy_mean,cv_accuracy_std
+Logistic Regression,0.8323,0.0346
+Gradient Boosting,0.8318,0.0304
+Soft-voting ensemble,0.8301,0.0335
+Random Forest,0.8281,0.0299
+SVM (RBF kernel),0.8267,0.0289
+K-Nearest Neighbours,0.8048,0.0273
